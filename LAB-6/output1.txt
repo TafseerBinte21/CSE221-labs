@@ -1,0 +1,2 @@
+Yasnaya Pochinki Farm Mylta Shelter Prison
+correctness of prediction: 75.0 %
